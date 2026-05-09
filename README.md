@@ -1,4 +1,4 @@
-<h2><b>Hi 👋</b></h2>
+<h2><b>Hi, I'm Hammad Karim 👋</b></h2>
 💻 BS Software Engineering Student at University of Engineering & Technology, Peshawar, Pakistan <br>
 🚀 Currently Learning Object Oriented Programming in C++<br>
 🌱 Passionate about Building, Learning, and Growing in Tech <br>
